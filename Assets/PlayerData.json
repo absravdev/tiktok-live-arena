@@ -1,0 +1,48 @@
+{
+    "Players": [
+        {
+            "Name": "SimulatedUser4",
+            "Victories": 4
+        },
+        {
+            "Name": "SimulatedUser1",
+            "Victories": 5
+        },
+        {
+            "Name": "SimulatedUser6",
+            "Victories": 3
+        },
+        {
+            "Name": "SimulatedUser2",
+            "Victories": 9
+        },
+        {
+            "Name": "SimulatedUser14",
+            "Victories": 1
+        },
+        {
+            "Name": "SimulatedUser5",
+            "Victories": 2
+        },
+        {
+            "Name": "SimulatedUser3",
+            "Victories": 4
+        },
+        {
+            "Name": "Cubitya",
+            "Victories": 1
+        },
+        {
+            "Name": "SimulatedUser11",
+            "Victories": 1
+        },
+        {
+            "Name": "SimulatedUser10",
+            "Victories": 1
+        },
+        {
+            "Name": "SimulatedUser16",
+            "Victories": 1
+        }
+    ]
+}
